@@ -11396,7 +11396,7 @@ hr.divider-light {
 header.masthead {
     padding-top: 10rem;
     padding-bottom: calc(10rem - 4.5rem);
-    background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("https://drive.google.com/file/d/1rKd0GLA4yQZt3pZ3rWjdyoXQkPEbSoxZ/view?usp=sharing");
+    background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../assets/img/ghost.jpeg");
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: scroll;
